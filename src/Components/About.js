@@ -57,7 +57,7 @@ const About = ({reference}) => {
                         <h3>Learn me at a glance</h3>
                         <div className="background">
                             <h4>Location</h4>
-                            <p>Looking for opportunities in Singapore</p>
+                            <p>Looking for opportunities in Singapore and Malaysia</p>
                             <h4>Education</h4>
                             <p>Software Engineering Degree from Asia Pacific University {"(APU)"}</p>
                             <h4>IT Interests</h4>
